@@ -31,7 +31,7 @@ Since the project runs on GitHub Actions, no server is required to regularly
 regenerate the images with updated statistics. Likewise, since the user runs
 the analysis code themselves via GitHub Actions, they can use their GitHub
 access token to collect statistics on private repositories that an external
-service would be unable to access.
+service would be unable to access. 
 
 ## Disclaimer
 
